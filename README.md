@@ -9,3 +9,11 @@
 2. I studied at Sauder [The University of Bristish Columbia](https://www.ubc.ca/), Vancouver
 
 Learning to use R for data exploration and analysis
+
+# Learning to use R for data exploration and analysis
+## Learning to use R for data exploration and analysis
+### Learning to use R for data exploration and analysis
+#### Learning to use R for data exploration and analysis
+##### Learning to use R for data exploration and analysis
+###### Learning to use R for data exploration and analysis
+
